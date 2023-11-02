@@ -70,7 +70,7 @@ const TicketForm = () => {
   };
 
   return (
-    <Card className="w-1/4">
+    <Card className="md:w-1/2 lg:w-1/4">
       <CardHeader>
         <CardTitle>Create your ticket</CardTitle>
         <CardDescription>
